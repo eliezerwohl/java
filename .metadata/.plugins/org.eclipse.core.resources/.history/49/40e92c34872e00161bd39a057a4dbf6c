@@ -1,0 +1,11 @@
+package tutorialFive;
+
+public class Application {
+	//my first java for loop
+	public static void main(String[] args) {
+		for(int i = 0; i < 5 ; i = i + 1){
+			System.out.println("the value of i is" + i);
+		}
+	}
+
+}
